@@ -1,6 +1,6 @@
 # ERD Rumah Makan
 
-![ERD Rumah Makan](/backend-30-Aug-23/ERD%20Rrumah%20Makan.png)
+![ERD Rumah Makan](https://res.cloudinary.com/dybjftu7w/image/upload/v1693414747/djb8oyezssx8daqvfv7t.png)
 
 ## Requirements
 

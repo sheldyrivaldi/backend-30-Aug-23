@@ -17,15 +17,15 @@ Aplikasi ini akan saya buat menggunakan basis mobile karena saya melihat efisien
 
 #### 1. Frontend
 
-    Untuk Frontend, saya akan menggunakan react native. Karena dengan react native saya bisa membuat aplikasi android dan ios sekaligus dengan kode yang sama sehingga bisa menghemat waktu dan usaha dalam pengembangan.
+Untuk Frontend, saya akan menggunakan react native. Karena dengan react native saya bisa membuat aplikasi android dan ios sekaligus dengan kode yang sama sehingga bisa menghemat waktu dan usaha dalam pengembangan.
 
 #### 2. Backend
 
-    Untuk Backend, saya akan menggunakan golang dengan framework echo. Karena golang memiliki performa dan efisiensi memory yang baik. Selain itu golang merupakan static type dan dalam pembelajarannya tidak sesulit bahasa static type yang lain seperti java dan Ruby, sehingga cocok untuk pengelolaan keuangan yang mana keuangan sangat sensitif dan jika terjadi kesalahan bisa berimbas pada keuangan bisnis. Dan Echo merupakan framework yang paling popular dan cepat menurut data yang saya cari dari beberapa website.
+Untuk Backend, saya akan menggunakan golang dengan framework echo. Karena golang memiliki performa dan efisiensi memory yang baik. Selain itu golang merupakan static type dan dalam pembelajarannya tidak sesulit bahasa static type yang lain seperti java dan Ruby, sehingga cocok untuk pengelolaan keuangan yang mana keuangan sangat sensitif dan jika terjadi kesalahan bisa berimbas pada keuangan bisnis. Dan Echo merupakan framework yang paling popular dan cepat menurut data yang saya cari dari beberapa website.
 
 #### 3. DBMS
 
-    Untuk database, saya akan mengunakan type SQL yaitu PostgreSQL. Karena core bisnis dari aplikasi ini sudah jelas yaitu rumah makan. Maka lebih baik mengunakan SQL karena lebih terstruktur dan terdefinisi dengan baik. Sehingga meminimalisir resiko kesalahan pencatatan keuangan. Dan saya memilih PostgreSQL karena memiliki banyak fitur yang tidak ada pada RDBMS lain seperti tipe data JSONB untuk menyimpan data json.
+Untuk database, saya akan mengunakan type SQL yaitu PostgreSQL. Karena core bisnis dari aplikasi ini sudah jelas yaitu rumah makan. Maka lebih baik mengunakan SQL karena lebih terstruktur dan terdefinisi dengan baik. Sehingga meminimalisir resiko kesalahan pencatatan keuangan. Dan saya memilih PostgreSQL karena memiliki banyak fitur yang tidak ada pada RDBMS lain seperti tipe data JSONB untuk menyimpan data json.
 
 # Permainan Dadu
 
